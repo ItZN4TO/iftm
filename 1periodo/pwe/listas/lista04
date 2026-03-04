@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+
+<body style="background-color: rgb(63, 153, 71);">
+
+</body>
+<p>
+    <h1 style="text-align: center;">Uberlândia</h1>
+    <u><i><b style="color: red; font-family: arial; font-size: 24px;">Lorem </i></u></b> dolor sit amet consectetur adipisicing elit. Quae totam, esse reprehenderit saepe atque neque magni
+    animi, iusto porro quaerat similique amet repellendus odio obcaecati vitae dolores, placeat tempore veniam.
+</p>
+
+<p>X<sup>2</sup> = 0</p>
+
+<p>H<sup>2</sup>0</p>
+
+<p>A palavra<del> ideia</del> foi substituída por <ins title="essa palavra foi modificado no ano de 2015">ideia</ins>na nova ortografia . . .</p>
+</html>
